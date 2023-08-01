@@ -1,11 +1,11 @@
-node.js install after npm init -y:
-npm i express
-npm i body-parser
-npm i ejs
-npm i -g nodemon
+node.js install after npm init -y: <br>
+npm i express <br>
+npm i body-parser <br>
+npm i ejs <br>
+npm i -g nodemon <br> <br>
 
-make shure you got in package.json after "main": "index.js",:
-"type": "module",
+make shure you got in package.json after "main": "index.js",: <br>
+"type": "module", <br> <br>
 
-run node.js with: 
-nodemon index.js
+run node.js with: <br>
+nodemon index.js <br>
