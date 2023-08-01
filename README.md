@@ -4,7 +4,7 @@ npm i body-parser <br>
 npm i ejs <br>
 npm i -g nodemon <br> <br>
 
-make shure you got in package.json after "main": "index.js",: <br>
+make sure you got in package.json after "main": "index.js",: <br>
 "type": "module", <br> <br>
 
 run node.js with: <br>
